@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@theme {
+  --color-bgRgb: rgba(106, 48, 147, 1); 
+}
